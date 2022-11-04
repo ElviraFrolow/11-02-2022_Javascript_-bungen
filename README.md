@@ -1,1 +1,1 @@
-# 11-02-2022_Javascript_-bungen
+# 11-02-2022_Javascript_-uebungen
